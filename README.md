@@ -6,4 +6,4 @@ Codes are provided with instructions of how to run them.
 
 Plots folder contains the images related to different experiments done.
 
-Implementation details and results are in Report pdf name Karan_ass2.pdf.
+Implementation details and results are in Report pdf name logistic.pdf .
